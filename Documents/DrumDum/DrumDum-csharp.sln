@@ -1,11 +1,11 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{7F23003E-387A-039E-654B-C87A08F1796E}") = "DrumDum", "Assembly-CSharp-firstpass.csproj", "{A64AFAB3-8738-E0E3-68BF-AF23018FE854}"
+Project("{7F23003E-387A-039E-654B-C87A08F1796E}") = "DrumDum", "Assembly-CSharp-firstpass-vs.csproj", "{A64AFAB3-8738-E0E3-68BF-AF23018FE854}"
 EndProject
-Project("{7F23003E-387A-039E-654B-C87A08F1796E}") = "DrumDum", "Assembly-CSharp.csproj", "{5AAC8991-F2DF-A87C-CF77-5E43CB00C5D2}"
+Project("{7F23003E-387A-039E-654B-C87A08F1796E}") = "DrumDum", "Assembly-CSharp-vs.csproj", "{5AAC8991-F2DF-A87C-CF77-5E43CB00C5D2}"
 EndProject
-Project("{7F23003E-387A-039E-654B-C87A08F1796E}") = "DrumDum", "Assembly-CSharp-Editor.csproj", "{B3214892-66D8-A3F1-0AF3-8A108A78F9CC}"
+Project("{7F23003E-387A-039E-654B-C87A08F1796E}") = "DrumDum", "Assembly-CSharp-Editor-vs.csproj", "{B3214892-66D8-A3F1-0AF3-8A108A78F9CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,7 +29,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-			GlobalSection(MonoDevelopProperties) = preSolution
+				GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
